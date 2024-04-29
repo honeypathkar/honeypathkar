@@ -17,7 +17,7 @@
 </p>
 
 - 🌱 I’m currently learning **React js and Javascript** -
--  👨‍💻 All of my projects are available at [https://personal-portfolio-honey.netlify.com](https://personal-portfolio-honey.netlify.com)
+-  👨‍💻 All of my projects are available at [https://personal-portfolio-honey.netlify.com](https://honeypatkar.github.io/my-portfolio/) 
 - 📫 How to reach me **honeypatkar70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
