@@ -17,12 +17,12 @@
 </p>
 
 - 🌱 I’m currently learning **React js and Javascript** -
--  👨‍💻 All of my projects are available at [https://honeypatkar.github.io/my-portfolio/](https://honeypatkar.github.io/my-portfolio/) 
+-  👨‍💻 All of my projects are available at [Personal Portfolio](https://honeypathkar.github.io/my-portfolio/) 
 - 📫 How to reach me **honeypatkar70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/honey-patkar-7725632ba" target="blank"
+  <a href="https://linkedin.com/in/honey-pathkar-7725632ba" target="blank"
     ><img
       align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
