@@ -125,23 +125,23 @@
 <p>
   <img
     align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=honeypatkar&show_icons=true&locale=en&layout=compact"
-    alt="honeypatkar"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=honeypathkar&show_icons=true&locale=en&layout=compact"
+    alt="honeypathkar"
   />
 </p>
 
 <p>
   &nbsp;<img
     align="center"
-    src="https://github-readme-stats.vercel.app/api?username=honeypatkar&show_icons=true&locale=en"
-    alt="honeypatkar"
+    src="https://github-readme-stats.vercel.app/api?username=honeypathkar&show_icons=true&locale=en"
+    alt="honeypathkar"
   />
 </p>
 
 <p>
   <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=honeypatkar&"
-    alt="honeypatkar"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=honeypatkhar&"
+    alt="honeypathkar"
   />
 </p>
