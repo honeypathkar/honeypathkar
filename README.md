@@ -16,10 +16,9 @@
       /></a>
     </p>
 
- - 🌱 I’m currently learning **React js and Javascript** - - 👨‍💻 All of my
-   projects are available at [Personal
-   Portfolio](https://honeypathkar.github.io/my-portfolio/) - 📫 How to reach
-   me **honeypatkar70@gmail.com**
+ - 🌱 I’m currently learning **React js and Javascript**
+ - 👨‍💻 All of my projects are available at [Personal-Portfolio](https://honeypathkar.github.io/my-portfolio/)
+ - 📫 How to reach me **honeypatkar70@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
     <p align="left">
