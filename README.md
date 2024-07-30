@@ -1,4 +1,4 @@
-    <div
+<div
       style="
         background-image: url(https://media.istockphoto.com/id/1093112310/vector/digital-binary-code-computer-matrix-data-falling-numbers-coding-typography-and-codes-stream.jpg?s=612x612&w=0&k=20&c=1ut8IX7k2XW1WIfT-YxW-F2Se0e86u6U1sC91y2xLYI=);
       "
@@ -6,9 +6,9 @@
       <h2 align="center">Hi 👋, I'm Honey</h2>
     </div>
 
-    <h3 align="center">Frontend Developer from India</h3>
+<h3 align="center">Frontend Developer from India</h3>
 
-    <p align="left">
+<p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
           src="https://github-profile-trophy.vercel.app/?username=honeypathkar"
@@ -16,12 +16,12 @@
       /></a>
     </p>
 
-    - 🌱 I’m currently learning **React js and Javascript** - - 👨‍💻 All of my
-    projects are available at [Personal
-    Portfolio](https://honeypathkar.github.io/my-portfolio/) - 📫 How to reach
-    me **honeypatkar70@gmail.com**
+ - 🌱 I’m currently learning **React js and Javascript** - - 👨‍💻 All of my
+   projects are available at [Personal
+   Portfolio](https://honeypathkar.github.io/my-portfolio/) - 📫 How to reach
+   me **honeypatkar70@gmail.com**
 
-    <h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
     <p align="left">
       <a href="https://linkedin.com/in/honey-pathkar" target="blank"
         ><img
@@ -49,7 +49,7 @@
       /></a>
     </p>
 
-    <h3 align="left">Languages and Tools:</h3>
+ <h3 align="left">Languages and Tools:</h3>
     <p align="left">
       <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img
@@ -145,7 +145,7 @@
       </a>
     </p>
 
-    <p>
+<p>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api/top-langs?username=honeypathkar&show_icons=true&locale=en&layout=compact"
@@ -153,7 +153,7 @@
       />
     </p>
 
-    <p>
+<p>
       &nbsp;<img
         align="center"
         src="https://github-readme-stats.vercel.app/api?username=honeypathkar&show_icons=true&locale=en"
@@ -161,7 +161,7 @@
       />
     </p>
 
-    <p>
+<p>
       <img
         align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=honeypathkar&"
