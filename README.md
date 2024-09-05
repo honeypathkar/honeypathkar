@@ -38,7 +38,7 @@
           height="30"
           width="40"
       /></a>
-      <a href="https://www.leetcode.com/honeypatkar70" target="blank"
+      <a href="https://www.leetcode.com/honeypathkar70" target="blank"
         ><img
           align="center"
           src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
