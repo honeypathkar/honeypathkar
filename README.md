@@ -3,7 +3,7 @@
         background-image: url(https://media.istockphoto.com/id/1093112310/vector/digital-binary-code-computer-matrix-data-falling-numbers-coding-typography-and-codes-stream.jpg?s=612x612&w=0&k=20&c=1ut8IX7k2XW1WIfT-YxW-F2Se0e86u6U1sC91y2xLYI=);
       "
     >
-      <h2 align="center">Hi 👋, I'm Honey</h2>
+      <h2 align="center">Hi 👋, I'm Honey Pathkar</h2>
     </div>
 
 <h3 align="center">Frontend Developer from India</h3>
