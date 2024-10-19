@@ -8,6 +8,8 @@
 
 <h3 align="center">Frontend Developer from India</h3>
 
+<p align="left" dir="auto"> <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1b3bcd39637cead2ecf5e10ffd341c134ab9da50f92f031f90ff98b0bb0e5df9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f6a68616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174"><img src="https://camo.githubusercontent.com/1b3bcd39637cead2ecf5e10ffd341c134ab9da50f92f031f90ff98b0bb0e5df9/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d6f6a68616c266c6162656c3d50726f66696c65253230766965777326636f6c6f723d306537356236267374796c653d666c6174" alt="honey" data-canonical-src="https://komarev.com/ghpvc/?username=honeypathkar&amp;label=Profile%20views&amp;color=0e75b6&amp;style=flat" style="max-width: 100%;"></a> </p>
+
 <p align="left">
       <a href="https://github.com/ryo-ma/github-profile-trophy"
         ><img
