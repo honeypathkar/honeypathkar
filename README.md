@@ -16,7 +16,7 @@
       /></a>
     </p>
 
- - 🌱 I’m currently learning **React js and Javascript**
+ - 🌱 I’m currently learning **React Native and Flutter focusing on Android App Development**
  - 👨‍💻 All of my projects are available at [Personal-Portfolio](https://honeypathkar.github.io/my-portfolio/)
  - 📫 How to reach me **honeypatkar70@gmail.com**
 
